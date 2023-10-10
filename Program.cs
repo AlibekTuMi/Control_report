@@ -1,1 +1,11 @@
 ﻿Console.Clear();
+System.Console.Write("Введие первый элемент :");
+string el1 = Console.ReadLine();
+System.Console.Write("Введие второй элемент :");
+string el2 = Console.ReadLine();
+System.Console.Write("Введие третий элемент :");
+string el3 = Console.ReadLine();
+System.Console.Write("Введие четвертый элемент :");
+string el4 = Console.ReadLine();
+System.Console.Write("Введие пятый элемент :");
+string el5 = Console.ReadLine();
