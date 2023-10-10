@@ -19,3 +19,4 @@ for (int i = 0; i < primary.Length; i++)
     }
 }
 string [] secondary = new string[count];
+int index = 0;
