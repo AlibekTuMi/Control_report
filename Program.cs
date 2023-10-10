@@ -20,3 +20,11 @@ for (int i = 0; i < primary.Length; i++)
 }
 string [] secondary = new string[count];
 int index = 0;
+for (int i = 0; i < primary.Length; i++)
+{
+    if (primary[i].Length <= 3)
+    {
+        secondary[index] = primary[i];
+        index++;
+    }
+}
