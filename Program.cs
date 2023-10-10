@@ -18,3 +18,4 @@ for (int i = 0; i < primary.Length; i++)
         count++;
     }
 }
+string [] secondary = new string[count];
