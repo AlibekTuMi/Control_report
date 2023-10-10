@@ -28,3 +28,5 @@ for (int i = 0; i < primary.Length; i++)
         index++;
     }
 }
+System.Console.WriteLine(string.Join(",",primary));
+System.Console.WriteLine(string.Join(",",secondary));
